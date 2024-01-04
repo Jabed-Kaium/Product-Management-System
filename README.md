@@ -1,6 +1,6 @@
 # Product-Management-System
 
-#### Backend - Spring Boot, Spring Security, MySQL
+#### Backend - Spring Boot, Spring Security, PostgreSQL
 
 <p>
 Implemented <strong>Spring security</strong> to secure the webapp and protect from unauthorize access.
