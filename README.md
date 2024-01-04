@@ -25,5 +25,4 @@ Implemented Pagination with React Paginate.
 
 #### Demo Video
 
-[![Demo Video](https://drive.google.com/thumbnail?authuser=0&sz=w1280&id=173UsQDn7nchvGjwuAY79MHDuUgIovF7k)](https://drive.google.com/file/d/173UsQDn7nchvGjwuAY79MHDuUgIovF7k/view?usp=sharing "Demo Video")
-
+[![Demo Video](https://drive.google.com/file/d/1CK_oyIqfEmM0fYGVGIMRSKZ-4WRrn8Gs/view?usp=sharing)](https://drive.google.com/file/d/173UsQDn7nchvGjwuAY79MHDuUgIovF7k/view?usp=sharing "Demo Video")
