@@ -23,7 +23,7 @@ Implemented <strong>Login/Logout</strong> functionality.
 Implemented Pagination with React Paginate.
 </p>
 
-#### Demo Video
+#### Watch Demo Video
 
 [![Demo Video](https://img.youtube.com/vi/_s51920n75c/1.jpg)](https://www.youtube.com/watch?v=_s51920n75c)
 
